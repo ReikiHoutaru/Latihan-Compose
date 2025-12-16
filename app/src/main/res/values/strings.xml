@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My First Apps</string>
+    <string name="title_activity_pokemon">PokemonActivity</string>
+</resources>
